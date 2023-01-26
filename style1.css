@@ -2,7 +2,7 @@ body{
     /*background-image: linear-gradient(90deg, white,pink,aqua);*/
 background-image: linear-gradient(90deg, white 0%,
          #b3ffff 0%,#99ff99 100%);
-         
+   margin-left:1rem;      
 }
 
 #id{
